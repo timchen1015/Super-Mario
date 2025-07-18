@@ -1,4 +1,4 @@
-# 3D Super Mario Project
+# 3D Super Mario
 
 A 3D Mario-style game built using Unity as the final project for window programming course. This project was created by a team of three students and features core gameplay inspired by the classic Super Mario platformers.
 
