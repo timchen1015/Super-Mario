@@ -1,6 +1,6 @@
 # 3D Super Mario
 
-A 3D Mario-style game built using Unity as the final project for window programming course. This project was created by a team of three students and features core gameplay inspired by the classic Super Mario platformers.
+A 3D Mario-style game built using Unity 2021.3.13f1 as the final project for window programming course. This project was created by a team of three students and features core gameplay inspired by the classic Super Mario platformers.
 
 ## 🔧 Project Description
 
@@ -29,6 +29,21 @@ You can watch a demo of the gameplay here:
 
 ## 🚀 Getting Started
 
+### For Players with Unity:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Super-Mario.git
+   git clone https://github.com/timchen1015/Super-Mario.git
+   ```
+2. Open the project with Unity 2021.3.13f1
+3. Go to File > Build Settings
+4. Select your target platform (Windows/Mac/Linux)
+5. Click "Build" and choose an output folder
+6. Once built, run the executable file to play
+
+### For Players without Unity:
+1. Download the latest release from the [Releases page](https://github.com/timchen1015/Super-Mario/releases)
+2. Extract the ZIP file
+3. Run "Super Mario.exe" to start the game
+
+## 🎯 How to Play
+![Game Instructions](https://github.com/timchen1015/Super-Mario/blob/main/game_instructions.png)
