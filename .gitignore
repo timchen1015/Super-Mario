@@ -9,6 +9,14 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Mm]onoBleedingEdge/
+/Super Mario_Data/
+/Super Mario.exe
+/UnityCrashHandler64.exe
+/UnityPlayer.dll
+/WinPixEventRuntime.dll
+/*.csproj
+/*.sln
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
